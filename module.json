@@ -30,7 +30,7 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/pf2e-flatten/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/alasla/pf2e-flatten/main/module.json",
   "download": "https://github.com/League-of-Foundry-Developers/pf2e-flatten/archive/refs/tags/V0.6.2.zip",
   "url": "https://github.com/League-of-Foundry-Developers/pf2e-flatten/"
 }
